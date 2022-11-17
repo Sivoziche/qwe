@@ -1,0 +1,3 @@
+[submodule "qwe"]
+	path = qwe
+	url = git@github.com:Sivoziche/qwe.git
